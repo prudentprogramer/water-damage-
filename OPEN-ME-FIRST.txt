@@ -1,0 +1,11 @@
+HOMEWATERCONNECT — PREMIUM BUILD
+
+1) Extract this ZIP.
+2) Keep index.html, assets/, services/, guides/, and PREVIEW-WEBSITE.bat together in this folder.
+3) Double-click PREVIEW-WEBSITE.bat to open the homepage via a local server (Python must be installed).
+4) Internet access is required for the public Pexels stock photography.
+5) See IMAGE-CREDITS.txt for photo source pages and the license link.
+6) Before publishing, update the domain placeholders and configure the approved ZIP list; obtain MarketCall pre-approval.
+
+PREVIEW PORT
+The preview starts on port 8017 to avoid an older website still running on the usual port 8000. Close previous preview command windows before testing this package.

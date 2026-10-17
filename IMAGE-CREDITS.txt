@@ -1,0 +1,25 @@
+IMAGE CREDITS — HOMEWATERCONNECT PREMIUM BUILD
+
+The website references photo files hosted on Pexels' public image CDN. The images are used as illustrative stock photography; they do not depict contractors represented by HomeWaterConnect. Pexels states its photos are free for personal and commercial use under the Pexels License; attribution is not required but is provided here as a courtesy. Please review the current license before changing how an image is used.
+
+1. Flooded interior room with standing water — Photo by Emmanuel Codden, Pexels
+   Source page: https://www.pexels.com/photo/water-in-abandoned-room-18302377/
+   CDN: https://images.pexels.com/photos/18302377/pexels-photo-18302377.jpeg
+
+2. Flooded, decaying room — Photo by Estonian Stalker, Pexels
+   Source page: https://www.pexels.com/photo/flooded-abandoned-room-10631759/
+   CDN: https://images.pexels.com/photos/10631759/pexels-photo-10631759.jpeg
+
+3. Bright residential living room — Photo by Curtis Adams, Pexels
+   Source page: https://www.pexels.com/photo/modern-living-room-interior-design-5353892/
+   CDN: https://images.pexels.com/photos/5353892/pexels-photo-5353892.jpeg
+
+4. Worker repairing an interior wall — Photo by AI25.Studio Studio, Pexels
+   Source page: https://www.pexels.com/photo/a-man-renovating-a-home-5493656/
+   CDN: https://images.pexels.com/photos/5493656/pexels-photo-5493656.jpeg
+
+5. Contemporary residential interior — Photo by Max Vakhtbovych, Pexels
+   Source page: https://www.pexels.com/photo/modern-room-interior-with-couch-at-home-6436745/
+   CDN: https://images.pexels.com/photos/6436745/pexels-photo-6436745.jpeg
+
+Pexels license: https://www.pexels.com/legal-pages/license/
